@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hey there, I'm Siddharth!
+
+I'm a Sophomore at [Brown University](https://www.brown.edu/) largely interested in:
+- AI/ML
+- Computing Systems
+- Cosmology
+- High-Energy Astrophysics.
+
+See my full profile [here](https://www.linkedin.com/in/siddharth-diwan/)
+
+And here's some interesting Projects of mine
 
 <!--
 **sidwan02/sidwan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
