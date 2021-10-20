@@ -1,6 +1,7 @@
 ### Hey there, I'm Siddharth!
 
 I'm a Sophomore at [Brown University](https://www.brown.edu/) largely interested in:
+- Full Stack
 - AI/ML
 - Computing Systems
 - Cosmology
