@@ -1,17 +1,18 @@
 ### Hey there, I'm Siddharth!
 
 I'm a Sophomore at [Brown University](https://www.brown.edu/) largely interested in:
+
 - Full Stack
 - AI/ML
-- Computing Systems
+- Computer Systems
 - Cosmology
-- High-Energy Astrophysics.
+- High-Energy Astrophysics
 
 See my full [Profile](https://www.linkedin.com/in/siddharth-diwan/)
 
-Here's some interesting [Projects](https://github.com/sidwan02/sidwan02/blob/main/Siddharth_Diwan_Project_Links.pdf)
+Here's some interesting [Projects](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Project-Links.pdf)
 
-And here's my most recent [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth_Diwan_Resume.pdf)
+And here's my most recent [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Resume-8-Dec-21.pdf)
 
 <!--
 **sidwan02/sidwan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
