@@ -12,7 +12,7 @@ See my full [Profile](https://www.linkedin.com/in/siddharth-diwan/)
 
 Here's some interesting [Projects](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Project-Links.pdf)
 
-And here's my most recent [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Resume-8-Dec-21.pdf)
+And here's my most recent [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Resume-12-Dec-21.pdf)
 
 <!--
 **sidwan02/sidwan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
