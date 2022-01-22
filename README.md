@@ -10,9 +10,7 @@ I'm a Sophomore at [Brown University](https://www.brown.edu/) largely interested
 
 See my full [Profile](https://www.linkedin.com/in/siddharth-diwan/)
 
-Here's some interesting [Projects](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Project-Links.pdf)
-
-And here's my most recent [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-Resume-12-Dec-21.pdf)
+Check out my CV [Resume](https://github.com/sidwan02/sidwan02/blob/main/Siddharth-Diwan-CV-Final-11-Jan-22.pdf)
 
 <!--
 **sidwan02/sidwan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
